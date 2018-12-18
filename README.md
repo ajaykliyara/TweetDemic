@@ -1,4 +1,4 @@
-# TweetDemic
+# Wegmans TweetDemic
 ## Project Goal and Problem Statement
 
 The project's goal is to build a system that collects Twitter data, both historical and live streamed data for hashtag ‘#Wegmans’, derive and visualize the sentiments in these tweets.
