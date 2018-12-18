@@ -1,0 +1,52 @@
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.dot {
+  fill : steelblue;
+}
+
+#band {
+  height:100vh;
+}
+
+#tour {
+  height:100vh;
+}
+
+
+#contact {
+  height:100vh;
+}
+
+/* Style Font on Text */
+.regFont {
+	font: 16px sans-serif;
+  align-content: left;
+  color : grey;
+  justify : left;
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+
+div#band {
+  padding-top: 20px;
+}
+
+div#legendContent {
+  padding-top: 10px;
+  padding-left: -20px;
+}
+
+/*left arrow alignment */
+#left_arrow {
+  margin-top: 100px;
+}
+
+/*right arrow alignment */
+#right_arrow {
+  margin-top: 100px;
+}

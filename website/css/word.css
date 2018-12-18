@@ -1,0 +1,20 @@
+div#cloud {
+  width: 1050px;
+  border: 5px solid grey;
+  padding: 25px;
+  margin: 25px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.legend{
+  display: none;
+}
+
+div#tour {
+  padding-top: 50px;
+}
+
+div#contact {
+  padding-top: 60px;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "knowledge domains",
+  "value": 100,
+  "children": [
+    {"domain": "Data Visualization", "name": "D3.js", "link": "https://jiankuang.pythonanywhere.com/datavis/d3/scatter", "value": 10},
+    {"domain": "Data Visualization", "name": "Dimple.js", "link": "http://bl.ocks.org/jiankuang", "value": 8},
+    {"domain": "Data Visualization", "name": "matplotlib(python)", "value": 6},
+    {"domain": "Data Visualization", "name": "ggplot(R)", "value": 4},
+    {"domain": "Data Analysis", "name": "Numpy", "value": 9},
+    {"domain": "Data Analysis", "name": "scikit-learn", "value": 8},
+    {"domain": "R", "name": "Machine Learning", "link": "https://www.coursera.org/account/accomplishments/records/XQRELS5AR3F4", "value": 10},
+    {"domain": "R", "name": "Getting and Cleaning Data", "link": "https://www.coursera.org/account/accomplishments/records/Wb3WPYcj7AmNQhqR", "value": 6},
+    {"domain": "R", "name": "Regression Models", "link": "https://www.coursera.org/account/accomplishments/records/VMUH8KBM9ME3", "value": 7},
+    {"domain": "R", "name": "Data Science", "link": "https://www.coursera.org/account/accomplishments/records/w8cMseL6hRwhC77p", "value": 8},
+    {"domain": "R", "name": "R", "link": "https://www.coursera.org/account/accomplishments/records/4TmUy2WKLTTSzh6h", "value": 5},
+    {"domain": "R", "name": "Exploratory Data Analysis", "link": "https://www.coursera.org/account/accomplishments/records/SYnkP64tq8kDz2LQ", "value": 8},
+    {"domain": "R", "name": "Statistical Inference", "link": "https://www.coursera.org/account/accomplishments/records/6YSr2p6PbujwEMt9", "value": 8},
+    {"domain": "Webserver Development", "name": "Asp.net MVC", "link": "http://www.bjcancer.org/Html/News/Main/131.html", "value": 3},
+    {"domain": "Webserver Development", "name": "Web2Py", "link": "http://jiankuang.pythonanywhere.com/datavis", "value": 3},
+    {"domain": "Webserver Development", "name": "NodeJS", "link": "http://invictusblog.herokuapp.com/", "value": 3},
+    {"domain": "Programming Language", "name": "JavaScript", "value": 10},
+    {"domain": "Education", "name": "Cisco Skillzone", "link": "http://csr.cisco.com/skillzone/", "value": 10}
+  ]
+}
