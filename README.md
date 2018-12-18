@@ -8,3 +8,4 @@ The objective was to create a live monitor that could help the supermarket manag
 Wegmans is american supermarket mostly found at northeastern united states.
 
 
+![ProcessFlow](process_flow.png)
